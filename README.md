@@ -75,7 +75,22 @@ Follow these steps to run the application locally:
 
 
 
-Stock Distribution Analysis
+# Stock Distribution Analysis
 
-Time Series Forecasting
+![image](https://github.com/user-attachments/assets/5e381cee-9713-4974-8db3-11a8f388a39d)
+
+
+# Time Series Forecasting
+
+![image](https://github.com/user-attachments/assets/6e2bb134-f1ee-4553-8178-d0a0c769b97f)
+
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Streamlit for building interactive dashboards.
+Yahoo Finance for stock data retrieval.
+Statsmodels for statistical modeling.
+ARCH package for volatility modeling.
 
